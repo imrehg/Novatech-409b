@@ -4,6 +4,8 @@ There's no official driver for [Novatech 409B][novatech] under LabView,
 so have to build our own. It is following the layout if the example
 hardware driver in LabView 2012.
 
+More detailed Readme in `Novatech 409b Readme.html`.
+
 **Status**: started, empty at the moment
 
 ## License
